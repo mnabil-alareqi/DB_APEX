@@ -6,7 +6,6 @@ create table SALGRADE (
 );
 
 -- إضافة البيانات للجدول عبر الواجهات كالتالي
--- DATA FROM TABLE
 -- G     LO      HI
 -- 1    700     1200
 -- 2    1201    1400
