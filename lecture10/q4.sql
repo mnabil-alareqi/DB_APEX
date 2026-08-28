@@ -5,6 +5,7 @@ create table SALGRADE (
     HISAL NUMBER
 );
 
+-- إضافة البيانات للجدول عبر الواجهات كالتالي
 -- DATA FROM TABLE
 -- G     LO      HI
 -- 1    700     1200
